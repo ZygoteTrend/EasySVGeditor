@@ -1,0 +1,18 @@
+{
+  "name": "EasySVGeditor by AG",
+  "short_name": "EasySVGeditor",
+  "description": "A full-featured, browser-based vector graphics editor for creating and editing SVG artwork.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
