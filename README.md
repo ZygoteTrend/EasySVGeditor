@@ -1,6 +1,6 @@
-# EasySVGeditor
+# Easy SVG editor
 
-EasySVGeditor is a free, fully client-side vector graphics editor. Draw, style,
+EasySVGeditor is a free SVG editing tool, fully client-side vector graphics editor. Draw, style,
 and export artwork — all in your browser, with nothing leaving your computer
 unless you choose to save or export.
 
