@@ -24,7 +24,7 @@ Try me: https://zygotetrend.github.io/EasySVGeditor/
 ## Links
 
 - **GitHub:** https://github.com/ZygoteTrend/EasySVGeditor
-- **Support the project:** https://buymeacoffee.com/zygoteag
+- **Support the project:**  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-☕-cee610?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/zygoteag)
 
 ## License
 
